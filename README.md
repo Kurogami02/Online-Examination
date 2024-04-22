@@ -12,12 +12,12 @@
 
 ## II.  Github
 
-https://github.com/caomingkai/Online-Exam-System.git
+(https://github.com/Kurogami02/Online-Examination)
 
 - MongoDB, Mongoose
 - Node.js, Express
-- React, Redux, React Router
-- JWT, Passport
+- React, Redux
+- JWT
 
 
 ## III. How to run it?
