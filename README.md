@@ -15,7 +15,7 @@
 (https://github.com/Kurogami02/Online-Examination)
 
 - MongoDB, Mongoose
-- Node.js, Express
+- Node.js
 - React, Redux
 - JWT
 
